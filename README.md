@@ -1,6 +1,6 @@
 # IBM ATM Challenge
 
-Você deve criar uma API de Caixa ATM, onde deve ser possível executar operações de saque, depósito, transferência e produzir um relatório de fechamento, além de operações e controles que forem necessários.
+Você deve criar uma API de Caixa ATM, onde deve ser possível executar operações de saque, depósito, transferência, extrato e produzir um relatório de fechamento, além de operações e controles que forem necessários.
 
 * Para as operações estarem disponíveis o caixa deve estar aberto, ou seja, deve ser previsto operações de abertura e fechamento de caixa.
 
