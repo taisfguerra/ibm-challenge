@@ -23,6 +23,7 @@ A implementação deve ficar na pasta correspondente ao desafio. Fique à vontad
 - Scalability/Performance;
 - Flexibility/Extensibility;
 - SOC (Separation of Concerns);
+- Tratamento de erros e exceções;
 - Lógica utilizada para a resolução do exercício.
   
 **Observação:**
@@ -32,9 +33,8 @@ A implementação deve ficar na pasta correspondente ao desafio. Fique à vontad
 
 ## Extras
 - Utilização do Docker;
-- Tratamento de erros e exceções;
-- Testes unitários ou de integração;
 - Programação Funcional;
+- Testes unitários ou de integração;
 - Explique o processo de resolução do desafio;
 - Regras de sugestão de cédulas para melhor distribuição e disponibilidade no caixa;
 - Banco de dados, contemplando os dados de contas corrente e informações de cada operação realizada.
