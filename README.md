@@ -26,7 +26,8 @@ A implementação deve ficar na pasta correspondente ao desafio. Fique à vontad
 - Lógica utilizada para a resolução do exercício.
   
 **Observação:**
-- Deve-se utilizar linguagem Java em versões 8+.
+- Deve-se utilizar linguagem Java em versões 8+;
+- A aplicação deve ser em SpringBoot conforme template deste repositório;
 - Você não deve fazer um *Pull Request* para este projeto!
 
 ## Extras
