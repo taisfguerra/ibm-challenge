@@ -10,7 +10,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>br.com.ibm.atm.challenge</groupId>
+    <groupId>br.com.ibm.challenge</groupId>
     <artifactId>ibm-atm-challenge</artifactId>
     <version>1.0</version>
     <name>ibm-atm-challenge</name>
