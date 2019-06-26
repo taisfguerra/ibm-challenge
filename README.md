@@ -28,11 +28,12 @@ A implementação deve ficar na pasta correspondente ao desafio. Fique à vontad
   
 **Obs.**:
 - Você não deve fazer um Pull Request para este projeto!
-- Utilizar as versões mais atuais da linguagem que escolher para desenvolver (JavaScript ES6+; Java 8; Python 3, etc).
+- Para este projeto, deve ser utilizado linguagem Java em versões 8+.
 
 ## Diferencial
 - Regras de sugestão de cédulas para melhor distribuição e disponibilidade no caixa.
 - Banco de dados, contendo dados de contas corrente e informações de cada operação realizada.
+- Docker
 
 ### Extras
 
