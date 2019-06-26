@@ -14,7 +14,7 @@ Você deve criar uma API de Caixa ATM, onde deve ser possível executar operaç�
  - Para operações de transferência, devem ser informados os dados necessários para a operação das contas origem e destino, com cenários de validação de saldo e possibilidade de agendamento.
  
 ## Como entregar estes desafios
-Você deve forkar este projeto e fazer o *push* no seu próprio repositório e enviar o link para o email do recrutador, junto com seu LinkedIn atualizado.
+Você deve *forkar* este projeto e fazer o *push* no seu próprio repositório e enviar o link para o email do recrutador, junto com seu LinkedIn atualizado.
 
 A implementação deve ficar na pasta correspondente ao desafio. Fique à vontade para adicionar qualquer tipo de conteúdo que julgue útil ao projeto, alterar/acrescentar um README com instruções de como executá-lo, etc.
 
@@ -25,9 +25,9 @@ A implementação deve ficar na pasta correspondente ao desafio. Fique à vontad
 - SOC (Separation of Concerns);
 - Lógica utilizada para a resolução do exercício.
   
-**Observação:**:
+**Observação:**
 - Deve-se utilizar linguagem Java em versões 8+.
-- Você não deve fazer um "Pull Request" para este projeto!
+- Você não deve fazer um *Pull Request* para este projeto!
 
 ## Extras
 - Utilização do Docker;
