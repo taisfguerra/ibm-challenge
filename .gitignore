@@ -1,0 +1,44 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Visual Studio
+.vscode/
+
+# Java
+*.class
+# Log file
+*.log
+# BlueJ files
+*.ctxt
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
